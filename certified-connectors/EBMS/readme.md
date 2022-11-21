@@ -22,13 +22,7 @@ For issues with EBMS please visit [info.eaglebusinesssoftware.com](https://info.
 ### Actions 
 1. Create new product
 2. Update existing product
-3. Create new task
-4. Update existing task
-5. Create new customer
-6. Update existing customer
-7. Create new contact
-8. Create new sales order
-9. Create new expense invoice  
+3. List product categories
 
 ### Triggers
 1. When task is created
